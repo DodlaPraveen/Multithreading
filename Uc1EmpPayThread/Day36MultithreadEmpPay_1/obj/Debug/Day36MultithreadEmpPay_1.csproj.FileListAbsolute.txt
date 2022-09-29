@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\bin\Debug\Day36MultithreadEmpPay_1.exe.config
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\bin\Debug\Day36MultithreadEmpPay_1.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\bin\Debug\Day36MultithreadEmpPay_1.pdb
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\obj\Debug\Day36MultithreadEmpPay_1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\obj\Debug\Day36MultithreadEmpPay_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\obj\Debug\Day36MultithreadEmpPay_1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\obj\Debug\Day36MultithreadEmpPay_1.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day36-Multithreding\Uc1EmpPayThread\Day36MultithreadEmpPay_1\obj\Debug\Day36MultithreadEmpPay_1.pdb
